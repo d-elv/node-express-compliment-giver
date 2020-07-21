@@ -1,0 +1,28 @@
+{
+  "name": "fem_learning_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "popmotion": "^8.7.3"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d-elv/node-express-compliment-giver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/d-elv/node-express-compliment-giver/issues"
+  },
+  "homepage": "https://github.com/d-elv/node-express-compliment-giver#readme"
+}
